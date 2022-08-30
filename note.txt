@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Project setup"
+git branch -M main
+git remote add origin https://github.com/IG005/HTML-Week3.git
+git push -u origin main
